@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains information regarding intro.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/f10ecb5c0116909d221dcd82757378a5_MITWGS_640F07_1_intro.pdf
+file: /media/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/f10ecb5c0116909d221dcd82757378a5_MITWGS_640F07_1_intro.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: 'Welcome/Introduction: What are we talking about?'
 uid: f10ecb5c-0116-909d-221d-cd82757378a5
