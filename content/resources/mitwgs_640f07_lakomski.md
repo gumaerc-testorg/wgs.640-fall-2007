@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 986f2129-9212-29cb-4d13-4a3162c21fce
 resourcetype: Document
 title: "Postmodern Love and Traditional Marriage in Todd Solondz\u2019s Happiness"
 uid: aca78dda-9db2-bdc1-5379-d96b898e1b8f

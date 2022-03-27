@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75c44c82-2e3a-811d-0f0b-89c0919f5e19
 resourcetype: Document
 title: Interrogating Marriage Class Notes 9/11/07
 uid: d5486b6a-9da6-1ddf-11fb-514787ce5c35

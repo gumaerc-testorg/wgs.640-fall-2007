@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75c44c82-2e3a-811d-0f0b-89c0919f5e19
 resourcetype: Document
 title: 'Class Discussion 9.18.07: Marriage in Social and Legal History (Cott and Hartog)'
 uid: 4a371a59-2a6d-6fe3-5e9d-82ae688d549d

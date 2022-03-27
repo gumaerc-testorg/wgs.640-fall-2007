@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 75c44c82-2e3a-811d-0f0b-89c0919f5e19
 resourcetype: Document
 title: 'Welcome/Introduction: What are we talking about?'
 uid: f10ecb5c-0116-909d-221d-cd82757378a5

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 986f2129-9212-29cb-4d13-4a3162c21fce
 resourcetype: Document
 title: 'Contemporary Creations of the Family Name: An Exploration of Social Variables
   in Patterns of Name Changing and Retention'
