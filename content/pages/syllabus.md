@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section includes the course description and information
+  about faculty, preparation, discussion leaders/scribes, the final paper, grades,
+  and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e8176997-b480-f7fe-f7f1-d106c6305843
 ---
@@ -26,9 +31,9 @@ Faculty
 Preparation
 -----------
 
-As a seminar participant, you are responsible for getting your hands on all of the materials listed in [readings]({{< baseurl >}}/pages/readings). All of the class materials are fairly easily accessible at the bookstore or the library. Many articles are available on various library databases: you need to find them, print them out, and bring them with you to class on the day that they are assigned.
+As a seminar participant, you are responsible for getting your hands on all of the materials listed in {{% resource_link 75bd2155-7072-2004-46a6-726db4b89361 "readings" %}}. All of the class materials are fairly easily accessible at the bookstore or the library. Many articles are available on various library databases: you need to find them, print them out, and bring them with you to class on the day that they are assigned.
 
-Of course, once you've found the materials, the fun will really begin. Careful preparation for this class will entail reading the assigned [readings]({{< baseurl >}}/pages/readings), deciding on the central point or points, considering the various texts in conversation with each other, and formulating some opinions and question of your own. Please come to class ready to ask as many questions as you can come up with.
+Of course, once you've found the materials, the fun will really begin. Careful preparation for this class will entail reading the assigned {{% resource_link 75bd2155-7072-2004-46a6-726db4b89361 "readings" %}}, deciding on the central point or points, considering the various texts in conversation with each other, and formulating some opinions and question of your own. Please come to class ready to ask as many questions as you can come up with.
 
 Discussion Leader/Scribe
 ------------------------
