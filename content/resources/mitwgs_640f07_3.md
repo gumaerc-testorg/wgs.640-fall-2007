@@ -6,6 +6,7 @@ file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Class Discussion 9.18.07: Marriage in Social and Legal History (Cott and
 uid: 4a371a59-2a6d-6fe3-5e9d-82ae688d549d
 ---
 This file contains information regarding Marriage in social and legal history.
-

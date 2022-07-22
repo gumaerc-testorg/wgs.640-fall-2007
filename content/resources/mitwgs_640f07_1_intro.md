@@ -5,6 +5,7 @@ file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Welcome/Introduction: What are we talking about?'
 uid: f10ecb5c-0116-909d-221d-cd82757378a5
 ---
 This file contains information regarding intro.
-
