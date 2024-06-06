@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/aca78dda9db2bdc15379d96b898e1b8f_MITWGS_640F07_lakomski.pdf
+file_size: 213542
 file_type: application/pdf
 learning_resource_types:
 - Assignments
