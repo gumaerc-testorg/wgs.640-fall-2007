@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains information regarding Marriage in social and legal
   history.
 file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/4a371a592a6d6fe35e9d82ae688d549d_MITWGS_640F07_3.pdf
+file_size: 96633
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
