@@ -43,7 +43,7 @@ RB
 Early American sex: history and culture
 {{< tdclose >}}{{< tdopen >}}
 
-Donne, John. "[Elegy XX: To His Mistress, Going to Bed](http://www.readprint.com/work-560/John-Donne)."
+Donne, John. "[Elegy XX: To His Mistress, Going to Bed](https://allpoetry.com/Elegy-XX:-To-His-Mistress-Going-to-Bed)."
 
 Bradstreet, Anne. "[To My Dear and Loving Husband](http://www.poets.org/viewmedia.php/prmMID/16108)," and "[A Letter to Her Husband, Absent upon Public Employment](http://classiclit.about.com/library/bl-etexts/abradstreet/bl-abradstreet-letter.htm)."
 
