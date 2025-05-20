@@ -2,7 +2,7 @@
 content_type: resource
 description: 'From the marriage equality march/rally in Seattle, Washington. (Image
   courtesy of Michael Hanscom) '
-file: /ol-ocw-studio-app/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/11cf80028c5dd5a9d398b936522b01f0_wgs-640f07-th.jpg
+file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/11cf80028c5dd5a9d398b936522b01f0_wgs-640f07-th.jpg
 file_size: 11717
 file_type: image/jpeg
 image_metadata:
