@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/0b8d710070940852007645996fcf97e1_MITWGS_640F07_gretchen.pdf
+file: /ol-ocw-studio-app/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/0b8d710070940852007645996fcf97e1_MITWGS_640F07_gretchen.pdf
 file_size: 286303
 file_type: application/pdf
 learning_resource_types:
