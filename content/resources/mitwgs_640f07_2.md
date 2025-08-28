@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains information regarding Early American sex: history
   and culture'
-file: /courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/d5486b6a9da61ddf11fb514787ce5c35_MITWGS_640F07_2.pdf
+file: /ol-ocw-studio-app/courses/wgs-640-studies-in-womens-life-narratives-interrogating-marriage-case-studies-in-american-law-and-culture-fall-2007/d5486b6a9da61ddf11fb514787ce5c35_MITWGS_640F07_2.pdf
 file_size: 150872
 file_type: application/pdf
 learning_resource_types:
