@@ -19,7 +19,7 @@ Course Description
 
 Is marriage a patriarchal institution? Much feminist scholarship has characterized it that way, but now in the context of the recent Massachusetts Supreme court decision legalizing gay marriage, the meaning of marriage itself demands serious re-examination. This course will discuss history, literature, film, and legal scholarship, making use of cross-cultural, sociological, anthropological, and many other theoretical approaches to the marriage question from 1630 to the present. As it turns out, sex, marriage, and the family have never been stable institutions; to the contrary, they have continued to function as flash points for the very social and cultural questions that are central to gender studies scholarship.
 
-This course is taught as part of the {{% resource_link "b79dfe1d-aad7-4b6d-b5ff-adf9283364e8" "Graduate Consortium in Women's Studies" %}}.
+This course is taught as part of the [Graduate Consortium in Women's Studies](http://web.mit.edu/gcws/).
 
 Faculty
 -------
