@@ -43,11 +43,11 @@ RB
 Early American sex: history and culture
 {{< tdclose >}}{{< tdopen >}}
 
-Donne, John. "{{% resource_link "48f641f3-b6fc-422e-a62b-4d30ffd49b77" "Elegy XX: To His Mistress, Going to Bed" %}}."
+Donne, John. "[Elegy XX: To His Mistress, Going to Bed](https://allpoetry.com/Elegy-XX:-To-His-Mistress-Going-to-Bed)."
 
-Bradstreet, Anne. "{{% resource_link "837a5d95-4551-4766-9ef8-0e3ec8e8625b" "To My Dear and Loving Husband" %}}," and "{{% resource_link "44e739f0-518c-4553-85fc-e560ce3861fc" "A Letter to Her Husband, Absent upon Public Employment" %}}."
+Bradstreet, Anne. "[To My Dear and Loving Husband](http://www.poets.org/viewmedia.php/prmMID/16108)," and "[A Letter to Her Husband, Absent upon Public Employment](http://classiclit.about.com/library/bl-etexts/abradstreet/bl-abradstreet-letter.htm)."
 
-Taylor, Edward. "{{% resource_link "4e0e0311-ab00-45b6-8db6-337473fd3f3a" "Huswifery" %}}," and "{{% resource_link "f5614ebb-504c-435a-9295-ad5d3a0d13ba" "Upon Wedlock and Death of Children" %}}."
+Taylor, Edward. "[Huswifery](http://rpo.library.utoronto.ca/poems/huswifery)," and "[Upon Wedlock and Death of Children](http://rpo.library.utoronto.ca/poems/upon-wedlock-and-death-children)."
 
 Godbeer, Richard. *Sexual Revolution In Early America*. Baltimore, MD: Johns Hopkins University Press, 2002. ISBN: 9780801868009. (Focus on part one.)
 
@@ -59,7 +59,7 @@ Dillon, Elizabeth Maddock. "Nursing Fathers and Brides of Christ: The Feminized 
 
 Foucault, Michel. *Introduction to the History of Sexuality*. New York, NY: Vintage, 1990. ISBN: 9780679724698.
 
-\*Lawrence v. Texas, Amicus Curiae (Historian's Brief). ({{% resource_link "828c0bf9-739e-4555-9b24-a6793e2bac63" "PDF" %}})
+\*Lawrence v. Texas, Amicus Curiae (Historian's Brief). ([PDF](https://www.apa.org/about/offices/ogc/amicus/lawrence))
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
@@ -115,7 +115,7 @@ RB
 Cross-racial marriage
 {{< tdclose >}}{{< tdopen >}}
 
-\*Child, Lydia Maria Francis. *A Romance of the Republic*. Louisville, KY: University of Kentucky, 1997 \[1867\]. ISBN: 9780813109282. The {{% resource_link "514005a4-28ba-4d6c-a1eb-aa2415c79f6c" "e-text" %}} is available courtesy of Project Gutenberg.
+\*Child, Lydia Maria Francis. *A Romance of the Republic*. Louisville, KY: University of Kentucky, 1997 \[1867\]. ISBN: 9780813109282. The [e-text](http://www.gutenberg.org/etext/10549) is available courtesy of Project Gutenberg.
 
 *Choose one of the following to read*
 
@@ -167,7 +167,7 @@ RB
 Boston marriage
 {{< tdclose >}}{{< tdopen >}}
 
-James, Henry. *The Bostonians*. New York, NY: Oxford University Press, 1998. ISBN: 9780192834423. The e-text ({{% resource_link "8b31fbb9-aea1-4435-8c49-2f0239b49bed" "Vol. I" %}} and {{% resource_link "86deba58-a503-4fd6-ac98-62332e5446b5" "Vol. II" %}}) is available courtesy of Project Gutenberg.
+James, Henry. *The Bostonians*. New York, NY: Oxford University Press, 1998. ISBN: 9780192834423. The e-text ([Vol. I](http://www.gutenberg.org/etext/19717) and [Vol. II](http://www.gutenberg.org/etext/19718)) is available courtesy of Project Gutenberg.
 
 Castle, Terry. "James and the specter of Lesbianism." In *The Apparitional Lesbian*. New York, NY: Columbia University Press, 1995. ISBN: 9780231076531.
 
@@ -175,7 +175,7 @@ Faderman, Lillian. "Acting 'Women' and Thinking 'Man': The Ploys of Famous Femal
 
 McColley, Kathleen. "Claiming Center Stage: Speaking Out for Homoerotic Empowerment in the Bostonians." *The Henry James Review* 21, no. 2 (Spring 2000): 151-169.
 
-United States Supreme Court. {{% resource_link "828c0bf9-739e-4555-9b24-a6793e2bac63" "Lawrence v. Texas" %}}, No. 02-102, 2002.
+United States Supreme Court. [Lawrence v. Texas](https://www.apa.org/about/offices/ogc/amicus/lawrence), No. 02-102, 2002.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -185,7 +185,7 @@ LB/STB
 Gay marriage (Goodridge)
 {{< tdclose >}}{{< tdopen >}}
 
-Supreme Judicial Court of Massachusetts. {{% resource_link "7c34f649-2194-40ca-bdb2-a6a70b51b34b" "Goodridge v. Department of Public Health" %}} 440 Mass. 309, 2003.
+Supreme Judicial Court of Massachusetts. [Goodridge v. Department of Public Health](http://masscases.com/cases/sjc/440/440mass309.html) 440 Mass. 309, 2003.
 
 \*Gerstman, Evan. *Same-Sex Marriage and the Constitution*. New York, NY: Cambridge University Press, 2008. ISBN: 9780521709132.
 
